@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 16,
+  "entry_count": 17,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -129,6 +129,14 @@
       "title": "## Port names dropped by a Capella merge, then fully reapplied",
       "tags": [],
       "file_path": "entries/lesson-0002-3898ae0ce65c436e8ca3f9d7bf25c7be.md"
+    },
+    {
+      "id": "dec-0007-98a410c7b4984eefb0ed900da14dbd4d",
+      "type": "decision",
+      "timestamp": "2026-09-22T14:46:55Z",
+      "title": "## Decision: qualify ExchangeItem names by machine, leave State names alone",
+      "tags": [],
+      "file_path": "entries/dec-0007-98a410c7b4984eefb0ed900da14dbd4d.md"
     }
   ]
 }
