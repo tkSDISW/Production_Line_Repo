@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 9,
+  "entry_count": 10,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -73,6 +73,14 @@
       "title": "## Capella state machine review \u2014 round 2 (pulled Tony's commit f817daf9)",
       "tags": [],
       "file_path": "entries/obs-0003-3273df1a50424079aedc700e7166ba22.md"
+    },
+    {
+      "id": "dec-0003-344ccf9c27c14731a500c4830bcb7358",
+      "type": "decision",
+      "timestamp": "2026-09-22T11:01:51Z",
+      "title": "## Master station state machine \u2014 verified clean",
+      "tags": [],
+      "file_path": "entries/dec-0003-344ccf9c27c14731a500c4830bcb7358.md"
     }
   ]
 }
