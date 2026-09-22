@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 6,
+  "entry_count": 7,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -49,6 +49,14 @@
       "title": "## History of the PackML standard",
       "tags": [],
       "file_path": "entries/note-0003-62536462463e4422b43c9ea6b49268c7.md"
+    },
+    {
+      "id": "note-0004-55bff468048b4b44a39129e62942f36c",
+      "type": "note",
+      "timestamp": "2026-09-22T09:54:46Z",
+      "title": "## Where the name \"PackML\" comes from",
+      "tags": [],
+      "file_path": "entries/note-0004-55bff468048b4b44a39129e62942f36c.md"
     }
   ]
 }
