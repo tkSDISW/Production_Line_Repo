@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 18,
+  "entry_count": 19,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -145,6 +145,14 @@
       "title": "## Process: verify exchange-item naming convention before rolling out to remaining stations",
       "tags": [],
       "file_path": "entries/dec-0008-8767fe1724e1413f9fb435ef3ef5a4ab.md"
+    },
+    {
+      "id": "dec-0009-3330eced34eb4fe3a9426072db397e88",
+      "type": "decision",
+      "timestamp": "2026-09-22T15:13:49Z",
+      "title": "## Filling Station exchange item allocation complete; YAML allocation confirmed supported",
+      "tags": [],
+      "file_path": "entries/dec-0009-3330eced34eb4fe3a9426072db397e88.md"
     }
   ]
 }
