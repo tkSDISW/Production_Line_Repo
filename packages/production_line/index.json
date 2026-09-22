@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 3,
+  "entry_count": 4,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -25,6 +25,14 @@
       "title": "## PackML (ANSI/ISA-TR88.00.02) state model \u2014 reference for the machine fault-recovery state machine",
       "tags": [],
       "file_path": "entries/note-0002-7cf8e5665c844512b797a1a9dbc80ad5.md"
+    },
+    {
+      "id": "obs-0002-67c5750e14ba4e30a37107aa9d7d7d7f",
+      "type": "observation",
+      "timestamp": "2026-09-22T01:30:21Z",
+      "title": "## Tooling constraint: state machine creation vs. reading in the Capella model",
+      "tags": [],
+      "file_path": "entries/obs-0002-67c5750e14ba4e30a37107aa9d7d7d7f.md"
     }
   ]
 }
