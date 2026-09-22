@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 10,
+  "entry_count": 11,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -81,6 +81,14 @@
       "title": "## Master station state machine \u2014 verified clean",
       "tags": [],
       "file_path": "entries/dec-0003-344ccf9c27c14731a500c4830bcb7358.md"
+    },
+    {
+      "id": "dec-0004-795268cf25914f97a336a6eaa048dbfe",
+      "type": "decision",
+      "timestamp": "2026-09-22T11:04:48Z",
+      "title": "## Descriptions added to master station state machine (TR88/PackML-based)",
+      "tags": [],
+      "file_path": "entries/dec-0004-795268cf25914f97a336a6eaa048dbfe.md"
     }
   ]
 }
