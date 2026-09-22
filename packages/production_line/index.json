@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 7,
+  "entry_count": 8,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -57,6 +57,14 @@
       "title": "## Where the name \"PackML\" comes from",
       "tags": [],
       "file_path": "entries/note-0004-55bff468048b4b44a39129e62942f36c.md"
+    },
+    {
+      "id": "dec-0002-c5978612489443f6a739b5dec3de4ae3",
+      "type": "decision",
+      "timestamp": "2026-09-22T09:57:53Z",
+      "title": "## Decision: reference diagram style for slides / Capella state machine",
+      "tags": [],
+      "file_path": "entries/dec-0002-c5978612489443f6a739b5dec3de4ae3.md"
     }
   ]
 }
