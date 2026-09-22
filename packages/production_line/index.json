@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 19,
+  "entry_count": 20,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -153,6 +153,14 @@
       "title": "## Filling Station exchange item allocation complete; YAML allocation confirmed supported",
       "tags": [],
       "file_path": "entries/dec-0009-3330eced34eb4fe3a9426072db397e88.md"
+    },
+    {
+      "id": "note-0006-2caf8292578a4658ac4f4e45dfbc9610",
+      "type": "note",
+      "timestamp": "2026-09-22T15:24:30Z",
+      "title": "## Slide 2 content: AI-Assisted Line Recovery (for Thursday presentation)",
+      "tags": [],
+      "file_path": "entries/note-0006-2caf8292578a4658ac4f4e45dfbc9610.md"
     }
   ]
 }
