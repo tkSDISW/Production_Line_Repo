@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 2,
+  "entry_count": 3,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -17,6 +17,14 @@
       "title": "## Comparing SEMI E10/E58 vs. PackML as a basis for the machine fault-recovery state model",
       "tags": [],
       "file_path": "entries/obs-0001-1990dbf6246540dda5efefbf63ae61c5.md"
+    },
+    {
+      "id": "note-0002-7cf8e5665c844512b797a1a9dbc80ad5",
+      "type": "note",
+      "timestamp": "2026-09-22T01:30:14Z",
+      "title": "## PackML (ANSI/ISA-TR88.00.02) state model \u2014 reference for the machine fault-recovery state machine",
+      "tags": [],
+      "file_path": "entries/note-0002-7cf8e5665c844512b797a1a9dbc80ad5.md"
     }
   ]
 }
