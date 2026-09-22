@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 20,
+  "entry_count": 21,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -161,6 +161,14 @@
       "title": "## Slide 2 content: AI-Assisted Line Recovery (for Thursday presentation)",
       "tags": [],
       "file_path": "entries/note-0006-2caf8292578a4658ac4f4e45dfbc9610.md"
+    },
+    {
+      "id": "dec-0010-730a91998f4440aab05311244490fba0",
+      "type": "decision",
+      "timestamp": "2026-09-22T17:17:30Z",
+      "title": "## Milestone: model and slide content ready for Thursday presentation",
+      "tags": [],
+      "file_path": "entries/dec-0010-730a91998f4440aab05311244490fba0.md"
     }
   ]
 }
