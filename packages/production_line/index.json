@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 8,
+  "entry_count": 9,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -65,6 +65,14 @@
       "title": "## Decision: reference diagram style for slides / Capella state machine",
       "tags": [],
       "file_path": "entries/dec-0002-c5978612489443f6a739b5dec3de4ae3.md"
+    },
+    {
+      "id": "obs-0003-3273df1a50424079aedc700e7166ba22",
+      "type": "observation",
+      "timestamp": "2026-09-22T10:58:11Z",
+      "title": "## Capella state machine review \u2014 round 2 (pulled Tony's commit f817daf9)",
+      "tags": [],
+      "file_path": "entries/obs-0003-3273df1a50424079aedc700e7166ba22.md"
     }
   ]
 }
