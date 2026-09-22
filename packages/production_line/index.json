@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 13,
+  "entry_count": 14,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -105,6 +105,14 @@
       "title": "## Functional exchange items mapped and described (TR88-based)",
       "tags": [],
       "file_path": "entries/dec-0005-97db72a979584c4eaf4219499f760cef.md"
+    },
+    {
+      "id": "note-0005-ee0c6d3e7c134d308055cd4524791f3f",
+      "type": "note",
+      "timestamp": "2026-09-22T12:34:33Z",
+      "title": "## Best practice: name ports in detail before creating a REC",
+      "tags": [],
+      "file_path": "entries/note-0005-ee0c6d3e7c134d308055cd4524791f3f.md"
     }
   ]
 }
