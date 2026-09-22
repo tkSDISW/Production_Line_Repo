@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 1,
+  "entry_count": 2,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -9,6 +9,14 @@
       "title": "## purpose \u2014 Production Line Repo",
       "tags": [],
       "file_path": "entries/note-0001-e1ba9cd1cb424493a77d3a196479b0f4.md"
+    },
+    {
+      "id": "obs-0001-1990dbf6246540dda5efefbf63ae61c5",
+      "type": "observation",
+      "timestamp": "2026-09-22T01:26:22Z",
+      "title": "## Comparing SEMI E10/E58 vs. PackML as a basis for the machine fault-recovery state model",
+      "tags": [],
+      "file_path": "entries/obs-0001-1990dbf6246540dda5efefbf63ae61c5.md"
     }
   ]
 }
