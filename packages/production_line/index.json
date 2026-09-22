@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 11,
+  "entry_count": 12,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -89,6 +89,14 @@
       "title": "## Descriptions added to master station state machine (TR88/PackML-based)",
       "tags": [],
       "file_path": "entries/dec-0004-795268cf25914f97a336a6eaa048dbfe.md"
+    },
+    {
+      "id": "lesson-0001-a5cdddaf8a344715bda570fafd2c5edb",
+      "type": "lesson_learned",
+      "timestamp": "2026-09-22T11:11:15Z",
+      "title": "## Sirius diagram-open NullPointerException after capella-fabric patch (commit 8afe71b0)",
+      "tags": [],
+      "file_path": "entries/lesson-0001-a5cdddaf8a344715bda570fafd2c5edb.md"
     }
   ]
 }
