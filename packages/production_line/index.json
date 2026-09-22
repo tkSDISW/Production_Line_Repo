@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 12,
+  "entry_count": 13,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -97,6 +97,14 @@
       "title": "## Sirius diagram-open NullPointerException after capella-fabric patch (commit 8afe71b0)",
       "tags": [],
       "file_path": "entries/lesson-0001-a5cdddaf8a344715bda570fafd2c5edb.md"
+    },
+    {
+      "id": "dec-0005-97db72a979584c4eaf4219499f760cef",
+      "type": "decision",
+      "timestamp": "2026-09-22T12:34:20Z",
+      "title": "## Functional exchange items mapped and described (TR88-based)",
+      "tags": [],
+      "file_path": "entries/dec-0005-97db72a979584c4eaf4219499f760cef.md"
     }
   ]
 }
