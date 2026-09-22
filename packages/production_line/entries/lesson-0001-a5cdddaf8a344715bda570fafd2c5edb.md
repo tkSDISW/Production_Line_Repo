@@ -1,7 +1,7 @@
 ---
 id: lesson-0001-a5cdddaf8a344715bda570fafd2c5edb
 type: lesson_learned
-timestamp: 2026-09-22T11:11:15Z
+timestamp: 2026-09-22T12:07:19Z
 author: 
 tags: []
 ---
@@ -25,3 +25,7 @@ java.lang.NullPointerException: Cannot invoke "org.eclipse.sirius.common.tools.a
 5. If isolated to the patch, Cartenza can revert it via capella-fabric and redo descriptions differently (e.g. avoid HTML-wrapped text in description fields)
 
 **Status:** unresolved / awaiting user's test results. If confirmed as a real capella-fabric write-path issue, this is worth flagging to Anthropic/Cartenza maintainers as a tooling gap — `apply_model_patch` on `description` fields of State/StateTransition objects may need to go through a path that keeps Sirius session state in sync.
+
+---
+
+**Resolved:** a full Capella restart fixed it. Confirms this was the Sirius interpreter-session-timing race condition (step 2 in the troubleshooting path), not caused by the capella-fabric description patch. No tooling gap to flag — `apply_model_patch` on description fields is cleared as a suspect for this issue.
