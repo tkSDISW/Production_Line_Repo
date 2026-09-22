@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 21,
+  "entry_count": 22,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -169,6 +169,14 @@
       "title": "## Milestone: model and slide content ready for Thursday presentation",
       "tags": [],
       "file_path": "entries/dec-0010-730a91998f4440aab05311244490fba0.md"
+    },
+    {
+      "id": "note-0007-ec582af8e1de4541a4a23cf661b93020",
+      "type": "note",
+      "timestamp": "2026-09-22T19:03:05Z",
+      "title": "## Added: Line Control's line-level fault-isolation description",
+      "tags": [],
+      "file_path": "entries/note-0007-ec582af8e1de4541a4a23cf661b93020.md"
     }
   ]
 }
