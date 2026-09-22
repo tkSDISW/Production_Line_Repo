@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 14,
+  "entry_count": 15,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -113,6 +113,14 @@
       "title": "## Best practice: name ports in detail before creating a REC",
       "tags": [],
       "file_path": "entries/note-0005-ee0c6d3e7c134d308055cd4524791f3f.md"
+    },
+    {
+      "id": "dec-0006-5c41166373654ec9945e2edd66cf6f1d",
+      "type": "decision",
+      "timestamp": "2026-09-22T12:47:17Z",
+      "title": "## Milestone: master station build complete, ready for REC/RPL",
+      "tags": [],
+      "file_path": "entries/dec-0006-5c41166373654ec9945e2edd66cf6f1d.md"
     }
   ]
 }
