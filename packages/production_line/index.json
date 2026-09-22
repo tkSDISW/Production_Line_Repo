@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 17,
+  "entry_count": 18,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -137,6 +137,14 @@
       "title": "## Decision: qualify ExchangeItem names by machine, leave State names alone",
       "tags": [],
       "file_path": "entries/dec-0007-98a410c7b4984eefb0ed900da14dbd4d.md"
+    },
+    {
+      "id": "dec-0008-8767fe1724e1413f9fb435ef3ef5a4ab",
+      "type": "decision",
+      "timestamp": "2026-09-22T14:48:38Z",
+      "title": "## Process: verify exchange-item naming convention before rolling out to remaining stations",
+      "tags": [],
+      "file_path": "entries/dec-0008-8767fe1724e1413f9fb435ef3ef5a4ab.md"
     }
   ]
 }
