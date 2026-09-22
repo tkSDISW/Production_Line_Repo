@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 15,
+  "entry_count": 16,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -121,6 +121,14 @@
       "title": "## Milestone: master station build complete, ready for REC/RPL",
       "tags": [],
       "file_path": "entries/dec-0006-5c41166373654ec9945e2edd66cf6f1d.md"
+    },
+    {
+      "id": "lesson-0002-3898ae0ce65c436e8ca3f9d7bf25c7be",
+      "type": "lesson_learned",
+      "timestamp": "2026-09-22T14:01:45Z",
+      "title": "## Port names dropped by a Capella merge, then fully reapplied",
+      "tags": [],
+      "file_path": "entries/lesson-0002-3898ae0ce65c436e8ca3f9d7bf25c7be.md"
     }
   ]
 }
