@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 5,
+  "entry_count": 6,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -41,6 +41,14 @@
       "title": "## Decision: demo line design \u2014 5-station bottling/packaging line, built via REC/RPL",
       "tags": [],
       "file_path": "entries/dec-0001-4157fbe38178421387f474ba9ae3832a.md"
+    },
+    {
+      "id": "note-0003-62536462463e4422b43c9ea6b49268c7",
+      "type": "note",
+      "timestamp": "2026-09-22T09:48:46Z",
+      "title": "## History of the PackML standard",
+      "tags": [],
+      "file_path": "entries/note-0003-62536462463e4422b43c9ea6b49268c7.md"
     }
   ]
 }
