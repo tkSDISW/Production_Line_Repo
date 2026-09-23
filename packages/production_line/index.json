@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 22,
+  "entry_count": 23,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -177,6 +177,14 @@
       "title": "## Added: Line Control's line-level fault-isolation description",
       "tags": [],
       "file_path": "entries/note-0007-ec582af8e1de4541a4a23cf661b93020.md"
+    },
+    {
+      "id": "note-0008-f5ffa14553234143a8e7c33e2cd186a5",
+      "type": "note",
+      "timestamp": "2026-09-23T00:59:11Z",
+      "title": "## Production Line introductory image",
+      "tags": [],
+      "file_path": "entries/note-0008-f5ffa14553234143a8e7c33e2cd186a5.md"
     }
   ]
 }
