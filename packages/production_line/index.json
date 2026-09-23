@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 26,
+  "entry_count": 27,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -209,6 +209,14 @@
       "title": "## Cartenza onboarding test: agent brought into active project in under five minutes",
       "tags": [],
       "file_path": "entries/obs-0006-236694616b064ad59ad5fba24d56785d.md"
+    },
+    {
+      "id": "dec-0011-2073bd5a0e9741a8a8a67f53fee57826",
+      "type": "decision",
+      "timestamp": "2026-09-23T09:30:22Z",
+      "title": "## Decision: separate repo for the simulator project",
+      "tags": [],
+      "file_path": "entries/dec-0011-2073bd5a0e9741a8a8a67f53fee57826.md"
     }
   ]
 }
