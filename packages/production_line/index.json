@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 27,
+  "entry_count": 28,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -217,6 +217,14 @@
       "title": "## Decision: separate repo for the simulator project",
       "tags": [],
       "file_path": "entries/dec-0011-2073bd5a0e9741a8a8a67f53fee57826.md"
+    },
+    {
+      "id": "note-0009-d102c7189d0247c7990e9b1afb259a26",
+      "type": "note",
+      "timestamp": "2026-09-23T10:02:46Z",
+      "title": "## Allocating Exchange Items onto Functional Exchanges via `apply_model_patch`",
+      "tags": [],
+      "file_path": "entries/note-0009-d102c7189d0247c7990e9b1afb259a26.md"
     }
   ]
 }
