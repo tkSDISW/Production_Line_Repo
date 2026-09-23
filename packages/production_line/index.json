@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 24,
+  "entry_count": 25,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -193,6 +193,14 @@
       "title": "## Customer context: semiconductor manufacturing equipment control",
       "tags": [],
       "file_path": "entries/obs-0004-319f0caab7854df0bfdc42b7da8986fb.md"
+    },
+    {
+      "id": "obs-0005-60e819e4e4624fd586edbbb53d11b372",
+      "type": "observation",
+      "timestamp": "2026-09-23T01:05:31Z",
+      "title": "## Adoption angle: industry-standard behavior captured in the customer's existing Capella environment",
+      "tags": [],
+      "file_path": "entries/obs-0005-60e819e4e4624fd586edbbb53d11b372.md"
     }
   ]
 }
