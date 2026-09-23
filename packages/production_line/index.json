@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 25,
+  "entry_count": 26,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -201,6 +201,14 @@
       "title": "## Adoption angle: industry-standard behavior captured in the customer's existing Capella environment",
       "tags": [],
       "file_path": "entries/obs-0005-60e819e4e4624fd586edbbb53d11b372.md"
+    },
+    {
+      "id": "obs-0006-236694616b064ad59ad5fba24d56785d",
+      "type": "observation",
+      "timestamp": "2026-09-23T01:10:06Z",
+      "title": "## Cartenza onboarding test: agent brought into active project in under five minutes",
+      "tags": [],
+      "file_path": "entries/obs-0006-236694616b064ad59ad5fba24d56785d.md"
     }
   ]
 }
