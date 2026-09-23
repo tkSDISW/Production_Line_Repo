@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 23,
+  "entry_count": 24,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -185,6 +185,14 @@
       "title": "## Production Line introductory image",
       "tags": [],
       "file_path": "entries/note-0008-f5ffa14553234143a8e7c33e2cd186a5.md"
+    },
+    {
+      "id": "obs-0004-319f0caab7854df0bfdc42b7da8986fb",
+      "type": "observation",
+      "timestamp": "2026-09-23T01:03:28Z",
+      "title": "## Customer context: semiconductor manufacturing equipment control",
+      "tags": [],
+      "file_path": "entries/obs-0004-319f0caab7854df0bfdc42b7da8986fb.md"
     }
   ]
 }
