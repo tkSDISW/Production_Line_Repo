@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 28,
+  "entry_count": 29,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -225,6 +225,14 @@
       "title": "## Allocating Exchange Items onto Functional Exchanges via `apply_model_patch`",
       "tags": [],
       "file_path": "entries/note-0009-d102c7189d0247c7990e9b1afb259a26.md"
+    },
+    {
+      "id": "dec-0012-77f4dff9e31549ae8c097285028c33c0",
+      "type": "decision",
+      "timestamp": "2026-09-23T11:28:16Z",
+      "title": "## Control-plane wiring complete for all 5 stations",
+      "tags": [],
+      "file_path": "entries/dec-0012-77f4dff9e31549ae8c097285028c33c0.md"
     }
   ]
 }
