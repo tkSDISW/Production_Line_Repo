@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 29,
+  "entry_count": 30,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -233,6 +233,14 @@
       "title": "## Control-plane wiring complete for all 5 stations",
       "tags": [],
       "file_path": "entries/dec-0012-77f4dff9e31549ae8c097285028c33c0.md"
+    },
+    {
+      "id": "dec-0013-bb549cbbc09f490ab502c3ab3c4b15c2",
+      "type": "decision",
+      "timestamp": "2026-09-23T12:15:12Z",
+      "title": "## Image specification: model-aligned logical architecture view",
+      "tags": [],
+      "file_path": "entries/dec-0013-bb549cbbc09f490ab502c3ab3c4b15c2.md"
     }
   ]
 }
