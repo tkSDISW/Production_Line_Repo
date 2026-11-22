@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 31,
+  "entry_count": 32,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -252,6 +252,17 @@
       "contributors": [],
       "tags": [],
       "file_path": "entries/note-0010-e32ae651773d4313866592e8eb06c7ab.md"
+    },
+    {
+      "id": "dec-0014-0a0649b4a18f43c5a1b4d64ea9764cc9",
+      "type": "decision",
+      "timestamp": "2026-11-22T13:50:53Z",
+      "last_updated": "2026-11-22T13:50:53Z",
+      "title": "## Model check on resuming the project, and Infeed Load exchange names normalized",
+      "author": "",
+      "contributors": [],
+      "tags": [],
+      "file_path": "entries/dec-0014-0a0649b4a18f43c5a1b4d64ea9764cc9.md"
     }
   ]
 }
