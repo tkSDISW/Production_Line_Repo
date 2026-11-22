@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 30,
+  "entry_count": 31,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -241,6 +241,17 @@
       "title": "## Image specification: model-aligned logical architecture view",
       "tags": [],
       "file_path": "entries/dec-0013-bb549cbbc09f490ab502c3ab3c4b15c2.md"
+    },
+    {
+      "id": "note-0010-e32ae651773d4313866592e8eb06c7ab",
+      "type": "note",
+      "timestamp": "2026-11-22T13:02:12Z",
+      "last_updated": "2026-11-22T13:02:12Z",
+      "title": "## Video script: Production line model, engineering notebook, and AI-assisted recovery",
+      "author": "",
+      "contributors": [],
+      "tags": [],
+      "file_path": "entries/note-0010-e32ae651773d4313866592e8eb06c7ab.md"
     }
   ]
 }
