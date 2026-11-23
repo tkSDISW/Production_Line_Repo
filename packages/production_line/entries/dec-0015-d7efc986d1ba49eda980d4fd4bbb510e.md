@@ -2,7 +2,7 @@
 id: dec-0015-d7efc986d1ba49eda980d4fd4bbb510e
 type: decision
 timestamp: 2026-11-23T02:07:59Z
-last_updated: 2026-11-23T02:07:59Z
+last_updated: 2026-11-23T13:48:50Z
 author: Cartenza (Claude), for Tony Komar
 contributors: ["Cartenza (Claude), for Tony Komar"]
 tags: []
@@ -46,3 +46,9 @@ Key statements now in the model:
 Refresh the local Capella copy from the remote before editing. This change landed on master from outside Capella (see DEC-0014).
 
 **Reference:** NOTE-0007 (Line Control fault-isolation description), NOTE-0010 (video script), DEC-0004 (state and transition descriptions), DEC-0012 (control-plane wiring complete), DEC-0014 (previous model check and naming fix), BCFG-0001.
+
+---
+
+### Correction, 2026-11-23: element counts
+
+This entry says 28 elements were described, including 16 functions. The patch (capella-fabric commit fd379ab4) actually described **29 elements: 4 actors, 8 components and 17 functions**. The 17 functions are the six `Manage States` functions, Control Machine, Control Machines, and the nine material-flow functions (Supply Bottle, Load, Fill Bottle, Cap Bottle, Label Bottle, Inspect Bottle, Case Pack, Case Label, Receive Case). The error was in the count only. The patch itself was correct and all 29 were applied. Found while recounting before the demo. The `Control Machines` text from this entry was later replaced by DEC-0016.
