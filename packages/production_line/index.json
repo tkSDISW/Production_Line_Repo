@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 37,
+  "entry_count": 38,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -328,6 +328,19 @@
       ],
       "tags": [],
       "file_path": "entries/dec-0017-d338ff0aba064f259faadf7e457a29ec.md"
+    },
+    {
+      "id": "dec-0018-e59d1496681847afa675a22de73b95df",
+      "type": "decision",
+      "timestamp": "2026-11-23T13:40:09Z",
+      "last_updated": "2026-11-23T13:40:09Z",
+      "title": "## Held-exit status item added (resumedExecute, 5 machines) and Scene 5 narration updated",
+      "author": "Cartenza (Claude), for Tony Komar",
+      "contributors": [
+        "Cartenza (Claude), for Tony Komar"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0018-e59d1496681847afa675a22de73b95df.md"
     }
   ]
 }
