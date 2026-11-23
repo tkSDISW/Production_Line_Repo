@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 38,
+  "entry_count": 39,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -341,6 +341,19 @@
       ],
       "tags": [],
       "file_path": "entries/dec-0018-e59d1496681847afa675a22de73b95df.md"
+    },
+    {
+      "id": "obs-0008-17f338d04f284823883d0a16300d80df",
+      "type": "observation",
+      "timestamp": "2026-11-23T13:49:04Z",
+      "last_updated": "2026-11-23T13:49:04Z",
+      "title": "## AI-assisted modeling session: from a cold start to a verified, demo-ready model in one sitting",
+      "author": "Cartenza (Claude), for Tony Komar",
+      "contributors": [
+        "Cartenza (Claude), for Tony Komar"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0008-17f338d04f284823883d0a16300d80df.md"
     }
   ]
 }
