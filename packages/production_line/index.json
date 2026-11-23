@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 33,
+  "entry_count": 34,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -276,6 +276,19 @@
       ],
       "tags": [],
       "file_path": "entries/bcfg-0001-e5db32d81bb8432c812940a0aad7c78f.md"
+    },
+    {
+      "id": "dec-0015-d7efc986d1ba49eda980d4fd4bbb510e",
+      "type": "decision",
+      "timestamp": "2026-11-23T02:07:59Z",
+      "last_updated": "2026-11-23T02:07:59Z",
+      "title": "## Descriptions approved and applied to logical actors, components and functions; Control Machines description restored",
+      "author": "Cartenza (Claude), for Tony Komar",
+      "contributors": [
+        "Cartenza (Claude), for Tony Komar"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0015-d7efc986d1ba49eda980d4fd4bbb510e.md"
     }
   ]
 }
