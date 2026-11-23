@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 34,
+  "entry_count": 35,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -289,6 +289,19 @@
       ],
       "tags": [],
       "file_path": "entries/dec-0015-d7efc986d1ba49eda980d4fd4bbb510e.md"
+    },
+    {
+      "id": "obs-0007-6a40228493bd468a810ce8aa1d8baf42",
+      "type": "observation",
+      "timestamp": "2026-11-23T13:23:18Z",
+      "last_updated": "2026-11-23T13:23:18Z",
+      "title": "## Scene 5 dry run: \"Filling Station is reporting Aborted. What do I do?\" read against the model",
+      "author": "Cartenza (Claude), for Tony Komar",
+      "contributors": [
+        "Cartenza (Claude), for Tony Komar"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0007-6a40228493bd468a810ce8aa1d8baf42.md"
     }
   ]
 }
