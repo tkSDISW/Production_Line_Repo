@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 35,
+  "entry_count": 36,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -302,6 +302,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0007-6a40228493bd468a810ce8aa1d8baf42.md"
+    },
+    {
+      "id": "dec-0016-bf98aec41f6c4094a4296cd70d050fbe",
+      "type": "decision",
+      "timestamp": "2026-11-23T13:30:59Z",
+      "last_updated": "2026-11-23T13:30:59Z",
+      "title": "## Control Machines: line-suspend logic added (suspend all other machines when any machine is Stopped, Aborted or Held)",
+      "author": "Cartenza (Claude), for Tony Komar",
+      "contributors": [
+        "Cartenza (Claude), for Tony Komar"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0016-bf98aec41f6c4094a4296cd70d050fbe.md"
     }
   ]
 }
