@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 36,
+  "entry_count": 37,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -315,6 +315,19 @@
       ],
       "tags": [],
       "file_path": "entries/dec-0016-bf98aec41f6c4094a4296cd70d050fbe.md"
+    },
+    {
+      "id": "dec-0017-d338ff0aba064f259faadf7e457a29ec",
+      "type": "decision",
+      "timestamp": "2026-11-23T13:37:49Z",
+      "last_updated": "2026-11-23T13:37:49Z",
+      "title": "## Machine Status exchange items added: stopped, held, returnedToIdle (5 machines, 15 items)",
+      "author": "Cartenza (Claude), for Tony Komar",
+      "contributors": [
+        "Cartenza (Claude), for Tony Komar"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0017-d338ff0aba064f259faadf7e457a29ec.md"
     }
   ]
 }
