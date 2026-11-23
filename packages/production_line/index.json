@@ -1,6 +1,6 @@
 {
   "package": "production_line",
-  "entry_count": 32,
+  "entry_count": 33,
   "entries": [
     {
       "id": "note-0001-e1ba9cd1cb424493a77d3a196479b0f4",
@@ -263,6 +263,19 @@
       "contributors": [],
       "tags": [],
       "file_path": "entries/dec-0014-0a0649b4a18f43c5a1b4d64ea9764cc9.md"
+    },
+    {
+      "id": "bcfg-0001-e5db32d81bb8432c812940a0aad7c78f",
+      "type": "behavior_config",
+      "timestamp": "2026-11-23T01:47:33Z",
+      "last_updated": "2026-11-23T01:47:33Z",
+      "title": "## behavior_config \u2014 Production Line Repo (`tkSDISW/Production_Line_Repo`)",
+      "author": "Cartenza (Claude), for Tony Komar",
+      "contributors": [
+        "Cartenza (Claude), for Tony Komar"
+      ],
+      "tags": [],
+      "file_path": "entries/bcfg-0001-e5db32d81bb8432c812940a0aad7c78f.md"
     }
   ]
 }
